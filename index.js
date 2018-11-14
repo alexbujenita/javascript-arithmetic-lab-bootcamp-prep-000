@@ -3,4 +3,4 @@ const subtract = (x, y) => x - y;
 const multiply = (x, y) => x * y;
 const divide = (x, y) => x / y;
 
-const inc = (a) => a+=;
+const inc = (a) => a+=1;
